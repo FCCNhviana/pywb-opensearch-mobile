@@ -1,0 +1,144 @@
+*** Starting uWSGI 2.0.13.1 (64bit) on [Wed May 18 17:59:00 2016] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-16) on 16 May 2016 16:48:14
+os: Linux-2.6.32-431.5.1.el6.x86_64 #1 SMP Wed Feb 12 00:41:43 UTC 2014
+nodename: p21.arquivo.pt
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /home/wayback/searcher/pywb-opensearch-mobile
+*** running under screen session 14162.mobile ***
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 256701
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (:8585).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.13.1 (64bit) on [Wed May 18 17:59:21 2016] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-16) on 16 May 2016 16:48:14
+os: Linux-2.6.32-431.5.1.el6.x86_64 #1 SMP Wed Feb 12 00:41:43 UTC 2014
+nodename: p21.arquivo.pt
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /home/wayback/searcher/pywb-opensearch-mobile
+*** running under screen session 14162.mobile ***
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 256701
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (:8585).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.13.1 (64bit) on [Wed May 18 18:00:01 2016] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-16) on 16 May 2016 16:48:14
+os: Linux-2.6.32-431.5.1.el6.x86_64 #1 SMP Wed Feb 12 00:41:43 UTC 2014
+nodename: p21.arquivo.pt
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /home/wayback/searcher/pywb-opensearch-mobile
+*** running under screen session 14162.mobile ***
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 256701
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (:8585).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.13.1 (64bit) on [Wed May 18 18:03:31 2016] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-16) on 16 May 2016 16:48:14
+os: Linux-2.6.32-431.5.1.el6.x86_64 #1 SMP Wed Feb 12 00:41:43 UTC 2014
+nodename: p21.arquivo.pt
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /home/wayback/searcher/pywb-opensearch-mobile
+*** running under screen session 14162.mobile ***
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 256701
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address :8584 fd 8
+probably another instance of uWSGI is running on the same address (:8282).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.13.1 (64bit) on [Wed May 18 18:04:34 2016] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-16) on 16 May 2016 16:48:14
+os: Linux-2.6.32-431.5.1.el6.x86_64 #1 SMP Wed Feb 12 00:41:43 UTC 2014
+nodename: p21.arquivo.pt
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /home/wayback/searcher/pywb-opensearch-mobile
+*** running under screen session 14162.mobile ***
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 256701
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address :8584 fd 8
+probably another instance of uWSGI is running on the same address (:8282).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.13.1 (64bit) on [Wed May 18 18:04:36 2016] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-16) on 16 May 2016 16:48:14
+os: Linux-2.6.32-431.5.1.el6.x86_64 #1 SMP Wed Feb 12 00:41:43 UTC 2014
+nodename: p21.arquivo.pt
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /home/wayback/searcher/pywb-opensearch-mobile
+*** running under screen session 14162.mobile ***
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 256701
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address :8584 fd 8
+probably another instance of uWSGI is running on the same address (:8282).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.13.1 (64bit) on [Wed May 18 18:04:37 2016] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-16) on 16 May 2016 16:48:14
+os: Linux-2.6.32-431.5.1.el6.x86_64 #1 SMP Wed Feb 12 00:41:43 UTC 2014
+nodename: p21.arquivo.pt
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /home/wayback/searcher/pywb-opensearch-mobile
+*** running under screen session 14162.mobile ***
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 256701
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address :8584 fd 8
+probably another instance of uWSGI is running on the same address (:8282).
+bind(): Address already in use [core/socket.c line 769]

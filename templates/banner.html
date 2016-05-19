@@ -1,0 +1,17 @@
+<!-- default banner, create through js -->
+<script type="text/javascript"> //For mobile versions
+   
+    function resize() { 
+       url = "{{ urlsplit.netloc }}";
+    ts = "{{ wbrequest.wb_url.timestamp }}";
+    var w = window.innerWidth;
+    var h = window.innerHeight;
+   if (w > 1024) {
+        window.location='{{ wbrequest.user_metadata.search_location }}/wayback/'+ts+'/'+url;
+        //alert('{{ wbrequest.user_metadata.search_location }}/wayback/'+ts+'/'+wbinfo.wombat_host);
+    }
+  }
+
+  window.onresize = resize;
+</script>
+
